@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **full-stack developer**
 
-- 🌱 I’m currently learning **Larvel,React,Nodejs**
+- 🌱 I’m currently learning **Laravel,ReactJS,NodeJS**
 
 - 👯 I’m looking to collaborate on **Software development**
 
